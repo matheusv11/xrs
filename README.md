@@ -1,2 +1,2 @@
-<Projeto Descontinuado> Sujeito a bugs
+Projeto Descontinuado: Sujeito a bugs
 # xrs
