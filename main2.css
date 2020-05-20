@@ -1,0 +1,208 @@
+.formulario {
+
+  padding-top: 3%;
+  padding-left: 30%;
+  padding-right: 30%;
+  -webkit-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+
+}
+
+.navbar {
+
+  text-align: center;
+  font-family: 'Lobster', cursive;
+
+}
+
+.enviar {
+
+  background-color: #484c7f;
+  height: 100%;
+  text-align: center;
+  vertical-align: baseline;
+  border: 0;
+  -webkit-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+
+}
+
+.enviar:hover {
+
+  background-color: #00FF00;
+  color:black;
+
+}
+
+.nav-link {
+
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+
+}
+
+.whiteHR {
+
+  background-color: white;
+
+}
+
+.banner {
+
+  background-image: url("images/background.jpg");
+  padding-top: 30%;
+  background-size: 70%;
+  margin-bottom: 5%;
+
+
+}
+
+.doacao {
+
+  padding: 10%;
+  border-radius: 5px;
+  text-align: center;
+  -webkit-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 3px 45px 0px rgba(0,0,0,0.75);
+
+}
+
+.botaoDoar {
+
+  background-color: #484c7f;
+  border: 1px solid #00FF00;
+  height: 100%;
+  text-align: center;
+  vertical-align: baseline;
+
+}
+
+.botaoDoar:hover{
+
+  background-color: #00FF00;
+  border: 1px solid #00FF00;
+  color:black;
+
+}
+
+body {
+
+  background-color: #484c7f;
+  font-family: 'Baloo Bhai', cursive;
+
+}
+
+.hrDoar {
+
+  margin-top: 0;
+  width: 70%;
+  background-color: white;
+
+}
+
+.labelDoar {
+
+  color: white;
+  font-size: 20px;
+
+}
+
+#labelCadastro {
+
+  color: white;
+
+}
+
+.rodape {
+
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.273394495412844) 35%, rgba(0,0,0,0.618348623853211) 100%);
+  color: white;
+  padding: 1%;
+
+}
+
+footer {
+
+  background: rgb(0,0,0,0.1);
+  margin-top: 10%;
+
+}
+
+.footerWhite {
+
+  color:white;
+
+}
+
+.links {
+
+  color:#ADEBFF;
+  cursor: pointer;
+
+}
+
+.links:hover {
+
+  color:#90C3D4;
+
+}
+
+/* Menu que dropa ao clicar */
+.dropdown-menu {
+
+  background-color: #BFBDB8;
+  padding-top: 5%;
+  padding-left:5%;
+  padding-right: 5%;
+  border: 1px solid #494846;
+  text-align: center;
+  vertical-align: baseline;
+
+}
+
+/* Botão que dropa o menu */
+.botaoDrop {
+
+  background-color: #484c7f;
+  height: 100%;
+  text-align: center;
+  vertical-align: baseline;
+  border: 1px solid #00FF00;
+
+}
+
+.botaoDrop:hover{
+
+  background-color: #00FF00;
+  border: 1px solid #00FF00;
+  color:black;
+
+}
+
+.submitDoar {
+
+  background-color: #0000;
+  height: 100%;
+  text-align: center;
+  vertical-align: baseline;
+  border: 0;
+
+}
+
+.submitDoar:hover {
+
+  background-color: #00FF00;
+  color:black;
+
+}
+
+.inputDoar {
+
+  width: 80%;
+  margin-left: 10%;
+
+}
